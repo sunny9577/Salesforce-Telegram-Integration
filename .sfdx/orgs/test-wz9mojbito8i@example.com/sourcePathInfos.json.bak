@@ -1,0 +1,504 @@
+[
+    [
+        "g:\\Salesforce Telegram Integration\\force-app",
+        {
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1587286585471,
+            "changeTime": 1587286585471,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main",
+        {
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1587286585472,
+            "changeTime": 1587286585472,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838568,
+            "changeTime": 1587292838568,
+            "contentHash": "77f96bdb79ad2afb85526590c48dcd192cf2f4b4"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838474,
+            "changeTime": 1587292838474,
+            "contentHash": "fc1517a25051e172b6aab47a6f7661a993f78795"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1587286595810,
+            "changeTime": 1587286595810,
+            "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration",
+        {
+            "sourcePath": "g:\\Salesforce Telegram Integration",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1587286595813,
+            "changeTime": 1587286595813,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 401,
+            "modifiedTime": 1587292838471,
+            "changeTime": 1587292838471,
+            "contentHash": "19f26c7fdbcfb87609931dd8b9d46b852522647f"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage\\TelegramSendMessage.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage\\TelegramSendMessage.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1587292838482,
+            "changeTime": 1587292838482,
+            "contentHash": "3777eb7c800ff2e217c3589385e773598ea24428"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage\\TelegramSendMessageController.js",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage\\TelegramSendMessageController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 103,
+            "modifiedTime": 1587292838487,
+            "changeTime": 1587292838487,
+            "contentHash": "0587faa64b75c2aaa5e6533d701f024d98128d90"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage\\TelegramSendMessageHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage\\TelegramSendMessageHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1369,
+            "modifiedTime": 1587292838490,
+            "changeTime": 1587292838490,
+            "contentHash": "b6700bbbac67453f35978ec5ca065ad3255b236c"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage\\TelegramSendMessage.cmp",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage\\TelegramSendMessage.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 660,
+            "modifiedTime": 1587292838490,
+            "changeTime": 1587292838490,
+            "contentHash": "33e99bb001f683e59196875136a023fd9f2c7fa6"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\objects\\Contact\\fields\\Telegram_User_ID__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\objects\\Contact\\fields\\Telegram_User_ID__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 412,
+            "modifiedTime": 1587292838499,
+            "changeTime": 1587292838499,
+            "contentHash": "e154503713672ce633e6a9c05ae176fb094d6c52"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9639,
+            "modifiedTime": 1587292838505,
+            "changeTime": 1587292838505,
+            "contentHash": "d024d6c5a770a1029cef93ad16494f729ee12de2"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9324,
+            "modifiedTime": 1587292838510,
+            "changeTime": 1587292838510,
+            "contentHash": "5f55c896f5bad5fea0df19867b289bf2e9e09f14"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9615,
+            "modifiedTime": 1587292838515,
+            "changeTime": 1587292838515,
+            "contentHash": "7487cfaba70b6db90d1789b1f701e34a6a817c94"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9615,
+            "modifiedTime": 1587292838519,
+            "changeTime": 1587292838519,
+            "contentHash": "36d753a9e94e0c8992c0807be7c87a45b56884f6"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramInvocable.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramInvocable.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1587292838521,
+            "changeTime": 1587292838521,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramInvocable.cls",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramInvocable.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1114,
+            "modifiedTime": 1587292838523,
+            "changeTime": 1587292838523,
+            "contentHash": "11a059783610a967b6ce1565a1f9e5d79898e4b5"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramUtility.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramUtility.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1587292838525,
+            "changeTime": 1587292838525,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramUtility.cls",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramUtility.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 874,
+            "modifiedTime": 1587292838526,
+            "changeTime": 1587292838526,
+            "contentHash": "3596b2d802dc8352a27223e21da1b1b8cae71dda"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramCmpRemoter.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramCmpRemoter.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1587292838528,
+            "changeTime": 1587292838528,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramCmpRemoter.cls",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramCmpRemoter.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 861,
+            "modifiedTime": 1587292838530,
+            "changeTime": 1587292838530,
+            "contentHash": "67897d7e772de02dca213cde402f43f7597f71bc"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramWebhook.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramWebhook.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1587292838532,
+            "changeTime": 1587292838532,
+            "contentHash": "b14927db8433719a949fb732f84be0e1c5bd19cd"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramWebhook.cls",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes\\TelegramWebhook.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1718,
+            "modifiedTime": 1587292838533,
+            "changeTime": 1587292838533,
+            "contentHash": "1455ca16702c9b78df86f8233b32c0fbe327f456"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20397,
+            "modifiedTime": 1587292838547,
+            "changeTime": 1587292838547,
+            "contentHash": "2914fd6824fa7f45050a9a8012071a1a0d4fee57"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5206,
+            "modifiedTime": 1587292838558,
+            "changeTime": 1587292838558,
+            "contentHash": "15f0a38516712cbc7b4b56b475ce83473fd25a20"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5546,
+            "modifiedTime": 1587292838563,
+            "changeTime": 1587292838563,
+            "contentHash": "905e41823167a6f3cb8642fcdd55a4279bb4dbae"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5210,
+            "modifiedTime": 1587292838566,
+            "changeTime": 1587292838566,
+            "contentHash": "b8d6fb8cac0e708dbb34bdf80c7fd6597ad74a9b"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\remoteSiteSettings\\TelegramAPI.remoteSite-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\remoteSiteSettings\\TelegramAPI.remoteSite-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 259,
+            "modifiedTime": 1587292838569,
+            "changeTime": 1587292838569,
+            "contentHash": "4c07c3c9f6478bc3a3daed30587e99b6395b8bc9"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\labels",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\labels",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838471,
+            "changeTime": 1587292838471,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\aura\\TelegramSendMessage",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838490,
+            "changeTime": 1587292838490,
+            "contentHash": "e1d0de686d852da12f9c49ff282cb3b04d8243bf"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838499,
+            "changeTime": 1587292838499,
+            "contentHash": "cea19faca40a0b6be682a9f0a9120db18da17e1d"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838499,
+            "changeTime": 1587292838499,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838498,
+            "changeTime": 1587292838498,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838519,
+            "changeTime": 1587292838519,
+            "contentHash": "0b3377b47f1f123cebb2bb17d44827d3b828a1bf"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838533,
+            "changeTime": 1587292838533,
+            "contentHash": "1f0a7428679cde9aa4adb528fae872274b1dc264"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838566,
+            "changeTime": 1587292838566,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\remoteSiteSettings",
+        {
+            "state": "u",
+            "sourcePath": "g:\\Salesforce Telegram Integration\\force-app\\main\\default\\remoteSiteSettings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1587292838569,
+            "changeTime": 1587292838569,
+            "contentHash": "1329fafea42e9d804b4e8ac565d2e826f4cecf23"
+        }
+    ]
+]

@@ -1,0 +1,8 @@
+<aura:component controller="TelegramCmpRemoter" implements="flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+    <lightning:card>
+        <p class="slds-p-horizontal_small">
+            <lightning:textarea aura:id="messageBody" required="true" value="" placeholder="compose your message" label="Send Message (Telegram)" maxlength="140" messageWhenTooLong="A maximum of 140 characters are allowed in a message." messageWhenValueMissing="An empty message cannot be sent." />
+            <lightning:button variant="brand" label="Send Now" title="Brand action" onclick="{! c.sendClick }" />
+        </p>
+    </lightning:card>
+</aura:component>
